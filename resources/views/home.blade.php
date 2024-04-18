@@ -67,7 +67,7 @@
                     <div class="card-header text-bg-dark">Tata Cara</div>
 
                     <div class="card-body text-bg-light" style="margin-bottom: 70px">
-                        <p>1. Klik Halaman Daftar Booking</p>
+                        <p>1. Klik Halaman Booking</p>
                         <p>2. Cek Jadwal pada Halaman Daftar Booking</p>
                         <p>3. Jika ingin menyewa, tekan tombol 'Booking'</p>
                         <p>4. Masukkan data</p>
